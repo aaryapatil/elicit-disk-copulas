@@ -3,7 +3,7 @@ Decoding the age-chemical structure of the Milky Way disk:
 An application of Copulas and Elicitable Maps
 
 # Code Usage
-The copula and conditional_correlation modules provide a user-friendly way to apply copulas and elicitable maps. The following example shows its usage:
+The [``copula``](https://github.com/aaryapatil/elicit-disk-copulas/blob/main/elicit-disk-copulas/copula.py) and [``conditional_correlation``](https://github.com/aaryapatil/elicit-disk-copulas/blob/main/elicit-disk-copulas/conditional_correlation.py) modules provide a user-friendly way to apply copulas and elicitable maps. The following example shows its usage:
 ```
 import numpy as np
 from copula import copula
