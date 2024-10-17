@@ -33,5 +33,5 @@ cm.Estimate(n_iter=1_000, n_print=200)
 cm.rho(np.random.rand(100))
 ```
 
-# Atrributiom
-Aarya A. Patil, Jo Bovy, Sebastian Jaimungal, Neige Frankel & Henry W. Leung (2023), submitted to MNRAS
+# Atrribution
+Aarya A Patil, Jo Bovy, Sebastian Jaimungal, Neige Frankel, Henry W Leung, Decoding the age–chemical structure of the Milky Way disc: an application of copulas and elicitable maps, Monthly Notices of the Royal Astronomical Society, Volume 526, Issue 2, December 2023, Pages 1997–2016, https://doi.org/10.1093/mnras/stad2820
